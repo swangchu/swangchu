@@ -5,14 +5,14 @@ I like to explore new ideas, learn new programming languages and sharing my insi
 
 ## 🚀 About Me
 
-- 🔭 I'm currently I am learning Golang and reading artles on LLM.
+- 🔭 I'm currently learning Golang and reading about LLM.
 - 📝 I have been teaching computer science to the higher secondary schools for almost 15 years 
-- 🌐 Before I resigned from civil service, I spent two years in Ministry of Education and Skills Development, Royal Government of Bhutan
+- 🌐 Before I resigned from civil service, I spent last two years in Ministry of Education and Skills Development, Royal Government of Bhutan
 - ✍️ I like to automate the workflow
 
 ## 🏆 Some of my work
 
-- 🌟 I have developed a platform for hosting lessons plans using Golang. This platform is being used my all teachers teaching from classes PP to VIII.(https://lessons.rec.gov.bt) 
+- 🌟 A platform for hosting lessons plans which was developed using Golang. (https://lessons.rec.gov.bt) 
 - 🌟 My first work was a website for my school. I developed it using Codeigniter. It requires lot to be done. https://www.samtsehss.edu.bt
 
 
