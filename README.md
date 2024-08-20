@@ -2,8 +2,6 @@
 I am a passionate seeker, driven by a curiosity for technology and a love for writing. 
 I like to explore new ideas, learn new programming languages and sharing my insights with the community.
 
-<!--
-**swangchu/swangchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🚀 About Me
 
